@@ -297,8 +297,8 @@ if __name__ == "__main__":
 ```
 
 ### Expectations
-1.Test Project Structure
-2.Project Dependencies
-3.Test Inventory
+- Test Project Structure
+- Project Dependencies
+- Test Inventory
 ----
    TestId  TestName   Inut  Expected Behavior
