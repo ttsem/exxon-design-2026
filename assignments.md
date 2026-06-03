@@ -13,7 +13,11 @@ This is an experiential learning experience - Concepts with live coding sessions
 
 [Modularity](modularity.md)
 
+[encapsulation](https://classroom.github.com/a/YYKqaurK)
+
 [solid](SOLID.md)
+
+
 
 ## References
 
