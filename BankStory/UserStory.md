@@ -46,3 +46,11 @@ Behind the scenes, the system follows strict business logic:
 - Account status changes are immediate and reflect real-time account conditions
 
 This banking system story ensures that customers can manage their money safely while the bank maintains appropriate risk management and regulatory compliance through automated account status monitoring and transaction controls.
+
+
+----
+## Epectation 
+- Cyclomatic Complexity <= 3
+- Modularity
+- Low Conginitive Complexity
+- Testable 
