@@ -1,4 +1,4 @@
-Use Case : Banking System Requirements - A Story
+## Use Case : Banking System Requirements - A Story
 A modern bank requires a simple but robust account management system to serve its customers effectively. The bank's customers have specific needs and expectations that the system must fulfill through reliable and secure banking operations.
 
 THE ACCOUNT CREATION STORY
